@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{81E00C5C-BE2E-4DB9-8089-E49AB390057C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Alura.WebAPI.WebApp/Startup.cs">
+    <Files>
+      <File FileName="Alura.WebAPI.AuthProvider/Alura.WebAPI.Api/Startup.cs" Line="84" Column="24" />
+      <File FileName="Alura.WebAPI.WebApp/Startup.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alura.WebAPI" expanded="True">
+            <Node name="0-Common" expanded="True">
+              <Node name="Alura.WebAPI.Model" expanded="True" />
+            </Node>
+            <Node name="1-Services" expanded="True">
+              <Node name="Alura.WebAPI.Api" expanded="True">
+                <Node name="Dependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="2-Apps" expanded="True">
+              <Node name="Alura.WebAPI.WebApp" expanded="True">
+                <Node name="Startup.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.1-Services.Alura.WebAPI.AuthProvider FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.2-Apps.Alura.WebAPI.WebApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.1-Services.Alura.WebAPI.Api PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
